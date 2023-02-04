@@ -35,8 +35,8 @@
 <br />
 
 <div>
-<img height="157em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Scoder&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Scoder&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" /> 
+<img height="158em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Scoder&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+<img width="47.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Scoder&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" /> 
 </div>
 
 [linkedin]: https://www.linkedin.com/in/gabriel-cardoso-g/
