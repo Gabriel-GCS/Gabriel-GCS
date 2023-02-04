@@ -35,7 +35,7 @@
 <br />
 
 <div>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Scoder&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+<img height="159em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Scoder&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Scoder&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" /> 
 </div>
 
