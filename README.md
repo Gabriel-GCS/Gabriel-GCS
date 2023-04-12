@@ -22,6 +22,8 @@
 <img align="left" alt="NestJs" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
 <img align="left" alt="NextJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="Express" width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" />
+<img align="left" alt="PHP" width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" />
+<img align="left" alt="Lavarel" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" />
 <img align="left" alt="MongoDb" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="MySql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
