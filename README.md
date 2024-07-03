@@ -1,6 +1,6 @@
 # 👋Hi, I'm Gabriel Cardoso!
 
-- 📚 Currently studing Computer Engineering [INATEL](https://inatel.br/home/)
+- 📓️  Graduated in Computer Engineering [INATEL](https://inatel.br/home/)
 - 💻️ Back-end Developer
 -  🌱 I’m currently learning Python
 - 📫 How to reach me **gabrielc-silva13@hotmail.com**
