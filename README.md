@@ -1,7 +1,7 @@
 # 👋Hi, I'm Gabriel Cardoso!
 
 - 📓️  Graduated in Computer Engineering [INATEL](https://inatel.br/home/)
-- 💻️ Full-stack Developer
+- 💻️ Full-stack Developer.
 - 📫 How to reach me **gabrielc-silva13@hotmail.com**
 
 ## 
